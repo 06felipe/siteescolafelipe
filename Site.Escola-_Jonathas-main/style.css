@@ -32,9 +32,9 @@
     display: center;
 
 }
-
-
-
+.escola-texto{
+    margin: 24px 0;
+}
 
 .escola-conteudo {
     width: 35%;
@@ -44,3 +44,16 @@
 body {
     font-family: 'EB Garamond', serif;
 }
+.escola-titulo{
+    padding:30px 0;
+}
+.escola-icone{
+    width:24px;
+}
+.escola-todos{
+    display:grid;
+    grid-template-columns:20% 20% 20% 20%;
+}
+
+
+
